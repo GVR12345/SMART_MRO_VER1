@@ -27,10 +27,6 @@ $env:VLLM_API_KEY="your_vllm_api_key_value"
 Install dependencies
 Install required packages from requirements.txt or install common dependencies directly:
 pip install -r requirements.txt
-# or, if no requirements file:
-pip install flask fastapi uvicorn requests python-multipart
-
-
 
 Run the user interface
 - From the project root o run:
